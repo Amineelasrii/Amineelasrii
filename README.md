@@ -3,8 +3,7 @@
 - 🌱 I’m currently learning language Python,SQL ,javascript and PHP 
 - 💞️ I’m looking to collaborate on projects in the future
 - 📫 How to reach me in linkedin : AMINE EL ASRI
-- 😄 Pronouns:..
-- ⚡ Fun fact: I love Python
+  
 
 <!---
 Amineelasrii/Amineelasrii is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
